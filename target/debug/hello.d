@@ -1,0 +1,1 @@
+/home/waleed/Desktop/Embedded_Linux/08-Rust/Project/hello/target/debug/hello: /home/waleed/Desktop/Embedded_Linux/08-Rust/Project/hello/src/lib.rs /home/waleed/Desktop/Embedded_Linux/08-Rust/Project/hello/src/main.rs
